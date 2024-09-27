@@ -5,14 +5,16 @@ import moviefinder from "../assets/movie-finder.png";
 import weather from "../assets/weather-finder.png";
 import qrcode from "../assets/qr-code.png";
 import currency from "../assets/currency-convetor.png";
+import pics from "../assets/img.jpg";
 const projects = [
-    {
-      id: 1,
-      name: "Crud-App",
-      technologies: "MERN Stack",
-      image: crudapp,
-      github: "https://github.com/SSHariharan24",
-    },
+  {
+    id: 1,
+    name: "Signup and Signin Using CRUD",
+    technologies: "MERN WITH JWT AUTH",
+    image: pics,
+    github: "https://github.com/SSHariharan24",
+  },
+    
     {
       id: 2,
       name: "Food-Cart",
@@ -46,6 +48,13 @@ const projects = [
       name: "Currency-Convetor",
       technologies: "REACT JS",
       image: currency,
+      github: "https://github.com/SSHariharan24",
+    },
+    {
+      id: 7,
+      name: "Crud-App",
+      technologies: "MERN Stack",
+      image: crudapp,
       github: "https://github.com/SSHariharan24",
     },
   ];
