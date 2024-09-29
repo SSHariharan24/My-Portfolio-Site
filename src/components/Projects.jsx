@@ -10,9 +10,9 @@ const projects = [
   {
     id: 1,
     name: "Signup and Signin Using CRUD",
-    technologies: "MERN WITH JWT AUTH",
+    technologies: "MERN WITH JWT AUTH AND VALIDATION",
     image: pics,
-    github: "https://github.com/SSHariharan24",
+    github: "https://github.com/SSHariharan24/Jwt-auth-and-validation-using-Mern.git",
   },
     
     {
@@ -20,42 +20,42 @@ const projects = [
       name: "Food-Cart",
       technologies: "REACT JS",
       image: foodcart,
-      github: "https://github.com/SSHariharan24",
+      github: "https://github.com/SSHariharan24/Food-Cart.git",
     },
     {
       id: 3,
       name: "Movie-Finder",
       technologies: "REACT JS",
       image: moviefinder,
-      github: "https://github.com/SSHariharan24",
+      github: "https://github.com/SSHariharan24/movie-finder.git",
     },
     {
       id: 4,
       name: "Weather-Finder",
       technologies: "REACT JS",
       image: weather,
-      github: "https://github.com/SSHariharan24",
+      github: "https://github.com/SSHariharan24/weather-finder.git",
     },
     {
       id: 5,
       name: "QR-Code Generator",
       technologies: "REACT JS",
       image: qrcode,
-      github: "https://github.com/SSHariharan24",
+      github: "https://github.com/SSHariharan24/QR-Code.git",
     },
     {
       id: 6,
       name: "Currency-Convetor",
       technologies: "REACT JS",
       image: currency,
-      github: "https://github.com/SSHariharan24",
+      github: "https://github.com/SSHariharan24/currency-convertor.git",
     },
     {
       id: 7,
       name: "Crud-App",
-      technologies: "MERN Stack",
+      technologies: "REACT AND NODE JS USING CRUD APP",
       image: crudapp,
-      github: "https://github.com/SSHariharan24",
+      github: "https://github.com/SSHariharan24/Crud-app.git",
     },
   ];
 
