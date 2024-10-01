@@ -10,7 +10,7 @@ const projects = [
   {
     id: 1,
     name: "Signup and Signin Using CRUD",
-    technologies: "MERN WITH JWT AUTH AND VALIDATION",
+    technologies: "MERN USING JWT AUTH AND SIGNIN,SIGNUP,FORGET AND RESETPASSWORD",
     image: pics,
     github: "https://github.com/SSHariharan24/Jwt-auth-and-validation-using-Mern.git",
   },
